@@ -42,6 +42,8 @@ dependencies:
   path_provider: ^2.1.0
   path: ^1.8.0
 
+
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -68,6 +70,7 @@ flutter:
     - lib/assets/starbucks.png
     - lib/assets/simitci.png # add more below(kayra)
     - lib/assets/placeholder.png
+    - lib/assets/default_profile.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:

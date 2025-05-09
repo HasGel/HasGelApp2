@@ -53,5 +53,7 @@
 	<string>We need access to your camera to allow you to take profile pictures.</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>We need permission to save images to your gallery.</string>
+	<key>NSUserNotificationUsageDescription</key>
+	<string>We need to send you notifications about your orders</string>
 </dict>
 </plist>
